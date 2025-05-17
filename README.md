@@ -28,8 +28,3 @@ O principal objetivo deste projeto foi colocar em prática conceitos fundamentai
 - Exibição de mensagens para vencedor ou empate
 - Placar de pontuação para cada jogador
 
-## 🚀 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/jogo-da-velha.git
